@@ -1,0 +1,7 @@
+requests
+aiohttp
+telethon
+bs4
+pytube
+flask
+gunicorn
