@@ -5,3 +5,5 @@ bs4
 pytube
 flask
 gunicorn
+pyTelegramBotAPI 
+beautifulsoup4 
